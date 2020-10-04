@@ -4,6 +4,35 @@
     margin: 0;
 }
 
+.portrait{
+    text-align: center;
+    margin: 40px 0 80px 0;
+}
+
+.sect_t1{
+    border-right: 4px solid black;
+    margin-right: 85%;
+    margin-left: 90px;
+    margin-bottom: 80px;
+    padding: 10px 0 135px 0;
+}
+
+.sect_t2{
+    border-right: 4px solid black;
+    margin-right: 85%;
+    margin-left: 60px;
+    margin-bottom: 80px;
+    padding: 15px 0 180px 0;
+}
+
+.sect_t3{
+    border-right: 4px solid black;
+    margin-right: 85%;
+    margin-left: 60px;
+    margin-bottom: 80px;
+    padding: 15px 0 25px 0;
+}
+
 header {
     padding: 20px;
     /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;*/
