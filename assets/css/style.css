@@ -9,6 +9,19 @@
     margin: 40px 0 80px 0;
 }
 
+.description{
+    font-size: 24px;
+    width: 80%;
+    float: right;
+}
+
+.info{
+    font-size: 18px;
+    width: 70%;
+    margin: -290px 129px 230px 0;
+    float: right;
+}
+
 .sect_t1{
     border-right: 4px solid black;
     margin-right: 85%;
@@ -21,7 +34,7 @@
     border-right: 4px solid black;
     margin-right: 85%;
     margin-left: 60px;
-    margin-bottom: 80px;
+    margin-bottom: 166px;
     padding: 15px 0 180px 0;
 }
 
@@ -35,7 +48,8 @@
 
 .container {
     width: 60%;
-    margin: 2rem auto; 
+    float: right;
+    margin-right: 270px; 
 }
 
 .grid_container{
